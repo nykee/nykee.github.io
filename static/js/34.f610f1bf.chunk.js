@@ -1,2 +1,0 @@
-webpackJsonp([34],{1318:function(e,o,t){var F;void 0!==(F=function(){return{type:"FeatureCollection",features:[{type:"Feature",id:"8200",properties:{name:"\u6fb3\u95e8",cp:[113.5715,22.1583],childNum:1},geometry:{type:"Polygon",coordinates:["@@HQFMDIDGBI@E@EEKEGCEIGGEKEMGSEU@CBEDAJAP@F@LBT@JCHMPOdADCFADAB@LFLDFFP@DAB@@AF@D@B@@FBD@FADHBBHAD@FAJ@JEDCJI`gFIJW"],encodeOffsets:[[116325,22699]]}}],UTF8Encoding:!0}}.call(o,t,o,e))&&(e.exports=F)}});
-//# sourceMappingURL=34.f610f1bf.chunk.js.map
